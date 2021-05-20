@@ -1,0 +1,3 @@
+Hello there, my name is Michelle and some people call me "Edgy" as a nickname.
+I'm really trying my best to better understand GIT and what it encompasses for me or my team.
+I have taken a mini-course at one time in which we set a lot of things up and I'm not really positive why I can use it.
